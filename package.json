@@ -1,0 +1,19 @@
+{
+  "name": "playground",
+  "version": "0.0.1",
+  "description": "A playground repo for experimenting with stuff",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sga-saini-g/playground.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sga-saini-g/playground/issues"
+  },
+  "homepage": "https://github.com/sga-saini-g/playground#readme"
+}
