@@ -1,6 +1,6 @@
 {
   "name": "playground",
-  "version": "0.0.1",
+  "version": "1.3.0",
   "description": "A playground repo for experimenting with stuff",
   "main": "main.js",
   "scripts": {
